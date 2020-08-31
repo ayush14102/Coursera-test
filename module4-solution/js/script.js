@@ -1,7 +1,7 @@
 /***Module4-solution***/
 
 
-var names = ["Ayush", "Mayuri", "Dhrumil","jainil"];
+var names = ["Alex", "Marisol", "Joe","Joshep"];
 // console.log(names);
 
 for (var i = 0; i < names.length; i++) {
